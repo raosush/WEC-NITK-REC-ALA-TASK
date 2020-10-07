@@ -23,7 +23,7 @@ This application. written in Flutter, completes the following [task](https://git
 
 * Install [flutter](https://flutter.dev/docs/get-started/install)
 * Clone repository into your local system.
-* After cloning the repo, run the `pub get` in the root directory.
+* After cloning the repo, run `flutter pub get` in the root directory.
 * You can build the apk (or) run the application, but will not be able to test out the feature, since the SHA-1 certificate needs to be registered in Firebase Console(for enabling authentication), and needs to be updated in `google-services.json`.
 
 ## Introduction
